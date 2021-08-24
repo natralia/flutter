@@ -1,0 +1,31 @@
+name: dadoos
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - imagens/dado1.png
+    - imagens/dado2.png
+    - imagens/dado3.png
+    - imagens/dado4.png
+    - imagens/dado5.png
+    - imagens/dado6.png
